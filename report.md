@@ -1,27 +1,27 @@
   1. Основная информация о сайте:
 
 1.1 Доменное имя сайта: ktkv.dev
-поддоменное: ac-server.ktkv.dev ii.ktkv.dev jf.ktkv.dev ktkv.dev lw.ktkv.dev nc.ktkv.dev og.ktkv.dev vw.ktkv.dev
+поддоменное: `ac-server.ktkv.dev ii.ktkv.dev jf.ktkv.dev ktkv.dev lw.ktkv.dev nc.ktkv.dev og.ktkv.dev vw.ktkv.dev`
 
 1.2 IP-адрес 
-Основной IP-адрес сайта — 92.124.140.111, Regional Network Information Center, JSC dba RU-CENTER.
+Основной IP-адрес сайта — `92.124.140.111`, Regional Network Information Center, JSC dba RU-CENTER.
 
 1.3 Время создания домена - 2023-11-25
 
 1.4 Срок действия домена действительна до 2024-11-25.
 
-1.5 Регистратор Домен зарегистрирован через компанию https://www.nic.ru/. 
+1.5 Регистратор Домен зарегистрирован через компанию `https://www.nic.ru/`.
 
   2. Сетевые данные
 
 2.1 DNS-серверы Используются DNS-серверы:
 
-cartman.ns.cloudflare.com. 
-mia.ns.cloudflare.com.
+`cartman.ns.cloudflare.com`. 
+`mia.ns.cloudflare.com`.
 
 2.2 Топология сети Серверы сайта расположены в Омске.
 
-2.3 Подсети и CIDR Сайт использует IP-адреса, 92.124.140.104 - 92.124.140.111. 
+2.3 Подсети и CIDR Сайт использует IP-адреса, `92.124.140.104 - 92.124.140.111.`
 
   3. Технологии сайта
 
@@ -39,8 +39,10 @@ mia.ns.cloudflare.com.
 
 4.2 Метаданные На главной странице используются мета-теги:
 
+```
 title:"Павел Кутиков | Задания, истории и не только"
 Description: "Многозадачный сайт для ".
+```
 
 4.3 Код страниц HTML, CSS и JavaScript код оптимизирован, используется минификация для сокращения времени загрузки.
 
@@ -50,8 +52,10 @@ Description: "Многозадачный сайт для ".
 
   5. Безопасность
 
-5.1 SSL-сертификаты: Certificate Transparency. TLS Certificate
-Issued by Let's Encrypt
+5.1 SSL-сертификаты: 
+
+`Certificate Transparency. 
+TLS Certificate Issued by Let's Encrypt`
 
 5.2 Уязвимости Известные уязвимости - отсутствуют.
 
@@ -78,6 +82,6 @@ Issued by Let's Encrypt
 8.2 Серверное местоположение - неизвестно
 
 9. Информация о владельце
-  #данных нет
+  # данных нет
 
 
