@@ -1,3 +1,4 @@
+[Чекните презу](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   1. Основная информация о сайте
      
 1.1 Доменное имя сайта: `osu.ppy.sh`
